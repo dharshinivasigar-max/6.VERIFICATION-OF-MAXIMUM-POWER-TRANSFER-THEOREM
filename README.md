@@ -32,12 +32,13 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 **TABULATION:**
  	
-<img width="1600" height="933" alt="image" src="https://github.com/user-attachments/assets/497a4959-a7d3-469f-af63-d961a359bfd1" />
+<img width="1600" height="1502" alt="image" src="https://github.com/user-attachments/assets/96fedf8a-99d3-450e-9f91-06199830b086" />
 
 
 **CALCULATION:**
 
-<img width="1600" height="1502" alt="image" src="https://github.com/user-attachments/assets/96fedf8a-99d3-450e-9f91-06199830b086" />
+<img width="1600" height="933" alt="image" src="https://github.com/user-attachments/assets/cf0007d9-e0d1-4895-ad7c-bd0e924ad8d0" />
+
 
 <img width="1125" height="1500" alt="image" src="https://github.com/user-attachments/assets/24574c2a-819b-4c62-b01f-305916b701b0" />
 
